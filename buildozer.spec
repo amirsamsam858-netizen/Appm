@@ -69,6 +69,9 @@ osx.python_version = 3
 # Kivy version to use
 osx.kivy_version = 2.3.1
 
+# requests version to use
+osx.requests_version = 2.34.2
+
 #
 # Android specific
 #
